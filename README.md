@@ -134,15 +134,4 @@ Visualized using a treemap for hierarchical comparison.
 This project demonstrates a complete Python-based data analysis workflow, from raw data inspection to KPI computation and visual storytelling.  
 The insights derived can help financial institutions improve credit risk assessment, optimize lending strategies, and monitor portfolio performance effectively.
 
----
 
-## Project Structure
-```text
-bank-loan-analysis-python/
-├── data/
-│   └── financial_loan.xlsx
-├── notebook/
-│   └── bank_loan_analysis.ipynb
-├── docs/
-│   └── project_notes.txt
-└── README.md
