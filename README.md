@@ -87,8 +87,6 @@ Loans were classified based on loan status:
 - Bad Loan Funded Amount  
 - Bad Loan Amount Received  
 
-This analysis helps evaluate portfolio quality and credit risk exposure.
-
 ---
 
 ### 4. Exploratory Data Analysis (EDA)
